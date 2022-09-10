@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+body {
+	background-color: rgb(20, 20, 20);
+	color: whitesmoke;
+}
+
+h2 {
+	width: 100%;
+	text-align: center;
+	margin: 1.5rem auto;
+}
+
+.grid {
+	height: 606px;
+	width: 606px;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 1rem auto;
+}
+
+.square {
+	height: 200px;
+	width: 200px;
+	border: 1px solid white;
+}
+
+.mole {
+	background: url("https://cdn.pixabay.com/photo/2013/07/13/11/28/animal-158236_960_720.png");
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
