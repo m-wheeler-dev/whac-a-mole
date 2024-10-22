@@ -8,3 +8,5 @@
   <li>You have 60 seconds to score as much as you can</li>
   <li>It's a fairly fast-paced game, so a mouse is recommended</li>
 </ul>
+
+<a href="https://mattwheeler-dev.github.io/whac-a-mole/" target="_blank">Test it out live here</a>
